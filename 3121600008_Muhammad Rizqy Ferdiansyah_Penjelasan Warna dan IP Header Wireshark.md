@@ -1,6 +1,8 @@
 # PRAKTIKUM 2 KONSEP JARINGAN 
 Muhammad Rizqy Ferdiansyah (3121600024)
 
+2-D4 IT A
+
 ## SOAL 1 
 JELASKAN WARNA-WARNA (COLOR RULES) PADA WIRESHARK
 ![ss wireshark](https://i.postimg.cc/HsDk8wN1/Screenshot-2022-09-05-224049.png)
@@ -24,81 +26,81 @@ diatas ini adalah contoh tampilan dari wireshark saat terhubung ke wifi
 
 **Bad TCP**
 
-TCP atau Transmission Control Protocol adalah merupakan bagian inti penting dari Internet Protocol sehingga sering disebut TCP/IP. TCP menyediakan komunikasi yang dapat diandalkan dan mempunyai urutan yang rapi. TCP berada pada transport layer.
+- TCP atau Transmission Control Protocol adalah merupakan bagian inti penting dari Internet Protocol sehingga sering disebut TCP/IP. TCP menyediakan komunikasi yang dapat diandalkan dan mempunyai urutan yang rapi. TCP berada pada transport layer.
 
 **HSRP State Change**
 
-Hot Standby Router Protocol (HSRP) adalah sebuah protokol standar CISCO yang menetapkan sebuah router yang secara otomatis mengambil alih jika router yang lain gagal. Dalam HSRP disetting dua status router yaitu aktif dan standby. Router standby baru digunakan jika router aktifnya gagal.
+- Hot Standby Router Protocol (HSRP) adalah sebuah protokol standar CISCO yang menetapkan sebuah router yang secara otomatis mengambil alih jika router yang lain gagal. Dalam HSRP disetting dua status router yaitu aktif dan standby. Router standby baru digunakan jika router aktifnya gagal.
 
 **Spanning Tree Topology Change**
 
-protokol jaringan yang menjamin topologi jaringan bebas-perulangan bagi penghubung Ethernet LAN.
+- protokol jaringan yang menjamin topologi jaringan bebas-perulangan bagi penghubung Ethernet LAN.
 
 **OSPF State Change**
 
-OSPF adalah protokol link state yang dianggap sebagai protokol paling terkenal di antara keluarga Interior Gateway Protocol (IGP), dikembangkan pada pertengahan 1980-an oleh kelompok kerja OSPF dari IETF. 
+- OSPF adalah protokol link state yang dianggap sebagai protokol paling terkenal di antara keluarga Interior Gateway Protocol (IGP), dikembangkan pada pertengahan 1980-an oleh kelompok kerja OSPF dari IETF. 
 
 **ICMP errors**
 
-ICMP adalah kependekan dari Internet Control Message Protocol. ICMP merupakan bagian dari Internet Protocol. ICMP digunakan peralatan-peralatan yg terhubung melalui jaringan internet untuk keperluan analisa jaringan. Penggunaan ICMP yang terkenal adalah ping dan traceroute.
+- ICMP adalah kependekan dari Internet Control Message Protocol. ICMP merupakan bagian dari Internet Protocol. ICMP digunakan peralatan-peralatan yg terhubung melalui jaringan internet untuk keperluan analisa jaringan. Penggunaan ICMP yang terkenal adalah ping dan traceroute.
 
 **TCP RST**
 
-RST adalah reset. 
+- RST adalah reset. 
 
-TCP atau Transmission Control Protocol adalah merupakan bagian inti penting dari Internet Protocol sehingga sering disebut TCP/IP. TCP menyediakan komunikasi yang dapat diandalkan dan mempunyai urutan yang rapi. TCP berada pada transport layer.
+- TCP atau Transmission Control Protocol adalah merupakan bagian inti penting dari Internet Protocol sehingga sering disebut TCP/IP. TCP menyediakan komunikasi yang dapat diandalkan dan mempunyai urutan yang rapi. TCP berada pada transport layer.
 
 **SCTP ABORT**
 
-SCTP adalah protokol message- oriented yang handal. SCTP menyimpan batas- batas pesan dan pada saat yang sama mendeteksi kehilangan data, duplikasi data, dan out-of-order data. SCTP juga memiliki kontrol kongesti dan mekanisme kontrol aliran.
+- SCTP adalah protokol message- oriented yang handal. SCTP menyimpan batas- batas pesan dan pada saat yang sama mendeteksi kehilangan data, duplikasi data, dan out-of-order data. SCTP juga memiliki kontrol kongesti dan mekanisme kontrol aliran.
 
 **TTL low or unexpected**
 
-Time to Live (TTL) adalah mekanisme untuk membatasi umur data dalam komputer atau jaringan. TTL dapat di implementasikan sebagai counter atau timestamp terpasang atau tertanam dalam data.
+- Time to Live (TTL) adalah mekanisme untuk membatasi umur data dalam komputer atau jaringan. TTL dapat di implementasikan sebagai counter atau timestamp terpasang atau tertanam dalam data.
 
 **Checksum Errors**
 
-Checksum Internet,[1][2] juga disebut checksum header IPv4 adalah checksum yang digunakan dalam versi 4 dari Internet Protocol (IPv4) untuk mendeteksi kerusakan pada header paket IPv4. Itu dibawa dalam header paket IP, dan mewakili hasil 16-bit dari penjumlahan kata-kata header.[3]
+- Checksum Internet,[1][2] juga disebut checksum header IPv4 adalah checksum yang digunakan dalam versi 4 dari Internet Protocol (IPv4) untuk mendeteksi kerusakan pada header paket IPv4. Itu dibawa dalam header paket IP, dan mewakili hasil 16-bit dari penjumlahan kata-kata header.[3]
 
-Protokol IPv6 tidak menggunakan checksum header. Perancangnya menganggap bahwa checksumming lapisan link seluruh paket yang disediakan dalam protokol, seperti PPP dan Ethernet, dikombinasikan dengan penggunaan checksum di protokol lapisan atas seperti TCP dan UDP, sudah cukup.[4] Dengan demikian, router IPv6 dibebaskan dari tugas menghitung ulang checksum setiap kali paket berubah, misalnya dengan menurunkan penghitung batas Hop pada setiap hop.
+- Protokol IPv6 tidak menggunakan checksum header. Perancangnya menganggap bahwa checksumming lapisan link seluruh paket yang disediakan dalam protokol, seperti PPP dan Ethernet, dikombinasikan dengan penggunaan checksum di protokol lapisan atas seperti TCP dan UDP, sudah cukup.[4] Dengan demikian, router IPv6 dibebaskan dari tugas menghitung ulang checksum setiap kali paket berubah, misalnya dengan menurunkan penghitung batas Hop pada setiap hop.
 
-Checksum Internet wajib untuk mendeteksi kesalahan dalam paket UDP IPV6 (termasuk muatan data).
+- Checksum Internet wajib untuk mendeteksi kesalahan dalam paket UDP IPV6 (termasuk muatan data).
 
 **SMB**
 
-Blok pesan server (SMB) adalah jaringan file sharing dan protokol data Fabric. SMB digunakan oleh miliaran perangkat dalam sekumpulan sistem operasi yang beragam, termasuk Windows, MacOS, iOS, Linux, dan Android. Klien menggunakan SMB untuk mengakses data di server.
+- Blok pesan server (SMB) adalah jaringan file sharing dan protokol data Fabric. SMB digunakan oleh miliaran perangkat dalam sekumpulan sistem operasi yang beragam, termasuk Windows, MacOS, iOS, Linux, dan Android. Klien menggunakan SMB untuk mengakses data di server.
 
 **HTTP**
 
-HTTP atau Hypertext Transfer Protocol  adalah protokol jaringan lapisan aplikasi (application layer) yang dikembangkan untuk membantu proses transfer antar komputer. Protokol ini berguna untuk mentransfer informasi seperti dokumen, file, gambar, dan video antar komputer.
+- HTTP atau Hypertext Transfer Protocol  adalah protokol jaringan lapisan aplikasi (application layer) yang dikembangkan untuk membantu proses transfer antar komputer. Protokol ini berguna untuk mentransfer informasi seperti dokumen, file, gambar, dan video antar komputer.
 
 **DCERPC**
 
-DCE/RPC, kependekan dari "Lingkungan Komputasi Terdistribusi / Panggilan Prosedur Jarak Jauh", adalah sistem panggilan prosedur jarak jauh yang dikembangkan untuk Lingkungan Komputasi Terdistribusi (DCE). Sistem ini memungkinkan pemrogram untuk menulis perangkat lunak terdistribusi seolah-olah semuanya bekerja pada komputer yang sama, tanpa harus khawatir tentang kode jaringan yang mendasarinya.
+- DCE/RPC, kependekan dari "Lingkungan Komputasi Terdistribusi / Panggilan Prosedur Jarak Jauh", adalah sistem panggilan prosedur jarak jauh yang dikembangkan untuk Lingkungan Komputasi Terdistribusi (DCE). Sistem ini memungkinkan pemrogram untuk menulis perangkat lunak terdistribusi seolah-olah semuanya bekerja pada komputer yang sama, tanpa harus khawatir tentang kode jaringan yang mendasarinya.
 
 **Routing**
 
-Pengertian umum dari perutean atau routing adalah suatu proses pada paket yang meneruskan jaringan dari satu jaringan ke jaringan lainnya melalui internet. Fungsi routing adalah menghubungkan segmen jaringan lain untuk mengirimkan paket data. Routing penting untuk dipahami karena berguna untuk mengetahui dasar-dasar pada sebuah jaringan.
+- Pengertian umum dari perutean atau routing adalah suatu proses pada paket yang meneruskan jaringan dari satu jaringan ke jaringan lainnya melalui internet. Fungsi routing adalah menghubungkan segmen jaringan lain untuk mengirimkan paket data. Routing penting untuk dipahami karena berguna untuk mengetahui dasar-dasar pada sebuah jaringan.
 
 **TCP SYN/FIN**
 
-TCP SYN-FIN Packets— Paket SYN dikirim untuk membuat koneksi TCP baru. Paket TCP FIN dikirim untuk menutup koneksi. Paket di mana flag SYN dan FIN diset seharusnya tidak pernah ada. Oleh karena itu paket-paket ini mungkin menandakan serangan pada perangkat dan harus diblokir.
+- TCP SYN-FIN Packets— Paket SYN dikirim untuk membuat koneksi TCP baru. Paket TCP FIN dikirim untuk menutup koneksi. Paket di mana flag SYN dan FIN diset seharusnya tidak pernah ada. Oleh karena itu paket-paket ini mungkin menandakan serangan pada perangkat dan harus diblokir.
 
 **TCP**
 
-TCP atau Transmission Control Protocol adalah merupakan bagian inti penting dari Internet Protocol sehingga sering disebut TCP/IP. TCP menyediakan komunikasi yang dapat diandalkan dan mempunyai urutan yang rapi. TCP berada pada transport layer.
+- TCP atau Transmission Control Protocol adalah merupakan bagian inti penting dari Internet Protocol sehingga sering disebut TCP/IP. TCP menyediakan komunikasi yang dapat diandalkan dan mempunyai urutan yang rapi. TCP berada pada transport layer.
 
 **UDP**
 
-UDP adalah singkatan dari User Data Protocol yang merupakan salah satu jenis protokol internet yang memungkinkan sebuah perangkat lunak pada komputer bisa mengirimkan pesan ke komputer lain melalui jaringan tanpa perlu ada komunikasi awal. Jadi saat Anda mengirimkan pesan melalui UDP, komputer pengirim dan penerima tidak perlu bernegosiasi saat akan melakukan pertukaran data.
+- UDP adalah singkatan dari User Data Protocol yang merupakan salah satu jenis protokol internet yang memungkinkan sebuah perangkat lunak pada komputer bisa mengirimkan pesan ke komputer lain melalui jaringan tanpa perlu ada komunikasi awal. Jadi saat Anda mengirimkan pesan melalui UDP, komputer pengirim dan penerima tidak perlu bernegosiasi saat akan melakukan pertukaran data.
 
 **Broadcast**
 
-Broadcast adalah sebuah metode dalam pengiriman data dimana data akan dikirim ke banyak titik sekaligus tanpa melakukan pengecekan apakah alamat yang dituju siap untuk menerima data atau tidak dan juga pengiriman paket juga tidak memperdulikan apakah data tersebut sampai pada alamat yang dituju atau tidak.
+- Broadcast adalah sebuah metode dalam pengiriman data dimana data akan dikirim ke banyak titik sekaligus tanpa melakukan pengecekan apakah alamat yang dituju siap untuk menerima data atau tidak dan juga pengiriman paket juga tidak memperdulikan apakah data tersebut sampai pada alamat yang dituju atau tidak.
 
 **System Event**
 
-adalah titik dalam pelaksanaan program di mana tugas komputasi yang dapat diidentifikasi berlangsung. Contoh kejadian sistem meliputi: menulis ke file, memasukkan data ke dalam tabel database, memanggil subrutin, dan membuat instance thread program.
+- System Event adalah titik dalam pelaksanaan program di mana tugas komputasi yang dapat diidentifikasi berlangsung. Contoh kejadian sistem meliputi: menulis ke file, memasukkan data ke dalam tabel database, memanggil subrutin, dan membuat instance thread program.
 
 
 ## SOAL2
@@ -108,10 +110,9 @@ JELASKAN APA ITU IP HEADER PADA WIRE SHARK
 
 1. Pilih dan buka note yang ping
 
-![default gateway](https://i.postimg.cc/J0H2Y1Bs/ss-ping.png)
+![Screenshot-4301.png](https://i.postimg.cc/fLJhk6Fw/Screenshot-4301.png)
 
-![ss wireshark](https://i.postimg.cc/QVLnRRp0/ip-header.png)
-![detail wireshark](https://i.postimg.cc/NMMVT8s7/note-ip.png)
+![Screenshot-4300.png](https://i.postimg.cc/ZKDpd3C4/Screenshot-4300.png)
 
 **TCP**
 
