@@ -5,9 +5,11 @@ Muhammad Rizqy Ferdiansyah (3121600024)
 
 ## SOAL 1 
 JELASKAN WARNA-WARNA (COLOR RULES) PADA WIRESHARK
-![ss wireshark](https://i.postimg.cc/HsDk8wN1/Screenshot-2022-09-05-224049.png)
+![ss-Wireshark.png](https://i.postimg.cc/nrN3h7JV/ss-Wireshark.png)
 
-diatas ini adalah contoh tampilan dari wireshark saat terhubung ke wifi
+Diatas ini adalah contoh tampilan dari wireshark saat terhubung ke wifi.
+
+Coloring Rules Default :
 
 ![color rules](https://i.postimg.cc/g0kJkGTw/color-rules-wireshark.png)
 
@@ -116,7 +118,7 @@ JELASKAN APA ITU IP HEADER PADA WIRE SHARK
 
 **TCP**
 
-![TCP](https://i.postimg.cc/63mPh7Ts/tcp.png)
+![Screenshot-4302.png](https://i.postimg.cc/fTKtcdyJ/Screenshot-4302.png)
 
 |**Nama field**|**Ukuran**|**Keterangan**|
 | :- | :- | :- |
@@ -133,7 +135,7 @@ JELASKAN APA ITU IP HEADER PADA WIRE SHARK
 |**Options**|4 byte (32 bit)|Berfungsi sebagai penampung beberapa opsi tambahan TCP. Setiap opsi TCP akan memakan ruangan 32 bit, sehingga ukuran header TCP dapat diindikasikan dengan menggunakan field Data offset.|
 **ICMP**
 
-![ICMP](https://i.postimg.cc/tRD380zT/icmp.png) **
+![Screenshot-4304.png](https://i.postimg.cc/ncQc3Q3H/Screenshot-4304.png) **
 
 1. Version (4 bit). Menunjukkan format dari internet header. Versi saat ini sebagaimana dijelaskan pada RFC 791 adalah versi 4.
 1. Internet header length (IHL: 4 bit). Menjelaskan panjang dari header menggunakan 32-bit word. Ukuran minimum header yang diijinkan adalah 5 word.
@@ -155,7 +157,7 @@ JELASKAN APA ITU IP HEADER PADA WIRE SHARK
 
 **Ethernet II**
 
-![Ethernet](https://i.postimg.cc/Y0XQFgSg/ethernet2.png)
+![Screenshot-4306.png](https://i.postimg.cc/768Z8PhF/Screenshot-4306.png)
 
 1. Prembule – Bingkai Ethernet dimulai dengan Pembukaan 7-Bytes. Ini adalah pola alternatif 0 dan 1 yang menunjukkan awal dari frame dan memungkinkan pengirim dan penerima untuk membuat sinkronisasi bit. Awalnya, PRE (Pembukaan) diperkenalkan untuk memungkinkan hilangnya beberapa bit karena penundaan sinyal. Tetapi Ethernet berkecepatan tinggi saat ini tidak memerlukan Pembukaan untuk melindungi bit frame. PRE (Pembukaan) menunjukkan penerima bahwa frame akan datang dan memungkinkan penerima untuk mengunci ke aliran data sebelum frame yang sebenarnya dimulai.
 1. Start of frame delimiter (SFD) – Ini adalah bidang 1-Byte yang selalu disetel ke 10101011. SFD menunjukkan bahwa bit yang akan datang memulai dari frame, yang merupakan alamat tujuan. Terkadang SFD dianggap sebagai bagian dari PRE, inilah alasan Pembukaan digambarkan sebagai 8 Bytes di banyak tempat. SFD memperingatkan stasiun atau stasiun bahwa ini adalah kesempatan terakhir untuk sinkronisasi.
