@@ -1,7 +1,7 @@
 # PRAKTIKUM 2 KONSEP JARINGAN 
-## Mochammad Rizal (3121600008)
+Muhammad Rizqy Ferdiansyah (3121600008)
 
-SOAL 1 
+## SOAL 1 
 JELASKAN WARNA-WARNA (COLOR RULES) PADA WIRESHARK
 ![ss wireshark](https://i.postimg.cc/HsDk8wN1/Screenshot-2022-09-05-224049.png)
 
@@ -101,7 +101,7 @@ Broadcast adalah sebuah metode dalam pengiriman data dimana data akan dikirim ke
 adalah titik dalam pelaksanaan program di mana tugas komputasi yang dapat diidentifikasi berlangsung. Contoh kejadian sistem meliputi: menulis ke file, memasukkan data ke dalam tabel database, memanggil subrutin, dan membuat instance thread program.
 
 
-SOAL2
+## SOAL2
 JELASKAN APA ITU IP HEADER PADA WIRE SHARK
 
 1. Kita jalankan wireshark dan pilih wifi, ping dengan cmd dengan alamat gateway default pada ipconfig
